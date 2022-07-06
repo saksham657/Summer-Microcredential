@@ -1,1 +1,1 @@
-# Summer-Microcredential
+# Micro-Credential
